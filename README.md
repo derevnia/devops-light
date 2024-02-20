@@ -17,9 +17,7 @@ docker-compose up --build
 
 >	- nginx (входящий и внутренний 80)
 >	- php-fpm (внутренний 9000)
->	- supervisor
 >	- postgresql (внутренний 5432)
->	- rabbitmq (внутренний 5672)
 >
 > *В скобках указаны порты*
 
